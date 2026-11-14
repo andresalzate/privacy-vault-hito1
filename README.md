@@ -28,8 +28,6 @@ backend/   Node.js + Express (ESM)
   src/routes/      API v1 + rutas del Taller 2 por compatibilidad
   test/            28 pruebas (node:test)
 frontend/  React + Vite (consola de operador y auditor, 2 pruebas con Vitest)
-docs/      diagramas (código fuente + PNG) y capturas
-PROMPTS_CURSOR.md  prompts para reproducir el desarrollo en Cursor
 ```
 
 ## Ejecutar
